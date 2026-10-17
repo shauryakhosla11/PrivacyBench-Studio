@@ -1,0 +1,23 @@
+
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.env
+.env.*
+!.env.example
+.vscode/
+.DS_Store
+Thumbs.db
+patients.csv
+
+data/
+dataa diabetes/
+results/
+
+/healthcare-privacy-analysis/
